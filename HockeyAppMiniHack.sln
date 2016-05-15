@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HockeyAppMiniHack", "HockeyAppMiniHack\HockeyAppMiniHack.csproj", "{612D88B8-02A1-47C0-B7AC-E787AA22BF00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{612D88B8-02A1-47C0-B7AC-E787AA22BF00}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{612D88B8-02A1-47C0-B7AC-E787AA22BF00}.Debug|iPhone.Build.0 = Debug|iPhone
+		{612D88B8-02A1-47C0-B7AC-E787AA22BF00}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{612D88B8-02A1-47C0-B7AC-E787AA22BF00}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{612D88B8-02A1-47C0-B7AC-E787AA22BF00}.Release|iPhone.ActiveCfg = Release|iPhone
+		{612D88B8-02A1-47C0-B7AC-E787AA22BF00}.Release|iPhone.Build.0 = Release|iPhone
+		{612D88B8-02A1-47C0-B7AC-E787AA22BF00}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{612D88B8-02A1-47C0-B7AC-E787AA22BF00}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
